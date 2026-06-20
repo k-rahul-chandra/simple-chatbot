@@ -6,6 +6,17 @@ The chatbot provides a clean chat interface where users can interact with an AI 
 
 ---
 
+## 🌐 Live Demo
+
+After deploying on Streamlit Cloud, add your URL below:
+
+```text
+LIVE APP URL:
+https://your-app-name.streamlit.app
+```
+
+---
+
 ## 🚀 Features
 
 ✅ Clean Streamlit UI
@@ -115,17 +126,6 @@ streamlit
 python-dotenv
 langchain-community
 langchain-groq
-```
-
----
-
-## 🌐 Live Demo
-
-After deploying on Streamlit Cloud, add your URL below:
-
-```text
-LIVE APP URL:
-https://your-app-name.streamlit.app
 ```
 
 ---
