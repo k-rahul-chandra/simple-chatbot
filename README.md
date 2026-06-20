@@ -130,14 +130,6 @@ https://your-app-name.streamlit.app
 
 ---
 
-## 📸 Screenshot
-
-Add screenshots of your chatbot here.
-
-![Chatbot Screenshot](images/chatbot.png)
-
----
-
 ## 📖 How It Works
 
 1. User enters a prompt.
@@ -147,13 +139,3 @@ Add screenshots of your chatbot here.
 5. Response is displayed and stored in session history.
 
 ---
-
-## 🧑‍💻 Author
-
-Rahul Chandra
-
-B.Tech AIML Student | AI & ML Enthusiast
-
-GitHub: https://github.com/your-github-username
-
-LinkedIn: https://linkedin.com/in/your-linkedin-profile
