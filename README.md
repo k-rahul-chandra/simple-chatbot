@@ -8,11 +8,10 @@ The chatbot provides a clean chat interface where users can interact with an AI 
 
 ## 🌐 Live Demo
 
-After deploying on Streamlit Cloud, add your URL below:
+LIVE APP URL:
 
 ```text
-LIVE APP URL:
-https://your-app-name.streamlit.app
+https://simple-chatbot-groq.streamlit.app/
 ```
 
 ---
